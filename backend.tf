@@ -3,6 +3,6 @@ terraform {
     organization = "Rakeshnani-Org"
     workspace {
     name   = "demo-workspace"
-    
+    }
   }
 }
